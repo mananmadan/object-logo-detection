@@ -1,0 +1,6 @@
+[submodule "yolov4-deepsort"]
+	path = yolov4-deepsort
+	url = https://github.com/mananmadan/yolov4-deepsort
+[submodule "DeepLogo"]
+	path = DeepLogo
+	url = https://github.com/mananmadan/DeepLogo
