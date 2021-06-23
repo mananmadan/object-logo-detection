@@ -1,18 +1,17 @@
 ## Algo's for Realtime detections
 
-Curr Algo  O(objects * detection time)                 |          Advanced Algo O(detection time)
--------------------------------------                  |           --------------------------------
+| Curr Algo  O(objects * detection time)                 |          Advanced Algo O(detection time)   |
+| -------------------------------------                  |           -------------------------------- |
 
-1. Get Objects                                         |         1. Get Objects
-2. See if all the objects in the scene are done?       |         2. See if all the objects are done
-3. Segement the objects that are not done yet          |         3. Run logo detection on the whole frame once
-4. Run logo detection on all of these objects          |         4. For each of the objects that are not done .. get logo's detected for that object
-5. If the model confidence on any logo > 40% or        |              -- Using Bounding Box Method
-the logo detected of the same object have been         |         5. If the model confidence on any logo > 40% or       
-detected same in 20 or more frames .. lock that object |         the logo detected of the same object have been        
-                                                       |         detected same in 20 or more frames .. lock that object
+|1. Get Objects                                         |         1. Get Objects |
+|2. See if all the objects in the scene are done?       |         2. See if all the objects are done |
+|3. Segement the objects that are not done yet          |         3. Run logo detection on the whole frame once |
+|4. Run logo detection on all of these objects          |         4. For each of the objects that are not done .. get logo's detected for that object |
+|the logo detected of the same object have been         |         5. If the model confidence on any logo > 40% or       |
+|detected same in 20 or more frames .. lock that object |         the logo detected of the same object have been        
+                                                       |         detected same in 20 or more frames .. lock that object |
 
-Detections Run = Number of new objects in the scene    |         Detections Run = 1
+|Detections Run = Number of new objects in the scene    |         Detections Run = 1|
 
 
 
