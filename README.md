@@ -8,4 +8,4 @@
 - Imp Files in Deep Logo
 
 ### Algos
-- Read ![algo.md][https://github.com/mananmadan/object-logo-detection/blob/master/algo.md]
+- Read [algo.md](https://github.com/mananmadan/object-logo-detection/blob/master/algo.md)
