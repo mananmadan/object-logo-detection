@@ -7,7 +7,7 @@
 
 ### File Structure
 - Imp Files Modified in Yolov4 + deepsort
-    -[object_tracker.py](https://github.com/mananmadan/yolov4-deepsort/blob/3d4ef1627a828f894b74b754df9a5db3ada3584a/object_tracker.py) : Implements yolov4 + deepsort and stores the segmented image of each object in a folder
+    - [object_tracker.py](https://github.com/mananmadan/yolov4-deepsort/blob/3d4ef1627a828f894b74b754df9a5db3ada3584a/object_tracker.py) : Implements yolov4 + deepsort and stores the segmented image of each object in a folder
     - [object_tracker-logo.py](https://github.com/mananmadan/yolov4-deepsort/blob/3d4ef1627a828f894b74b754df9a5db3ada3584a/object_tracker-logo.py) : Implements yolov4 + deepsort + DeepLogo for realtime detection according to the algo A as given in algo.md files
         - Outputs a Dict contains object , their ids and detected logo
     - [object_tracker_logonew.py](https://github.com/mananmadan/yolov4-deepsort/blob/3d4ef1627a828f894b74b754df9a5db3ada3584a/object_tracker_logonew.py) : Implements yolov4 + deepsort + DeepLogo for realtime detection according to the algo B given in the algo.md files
