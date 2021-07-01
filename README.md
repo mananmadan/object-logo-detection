@@ -25,7 +25,7 @@
 
 
 #### Algo A Flowchart
-- ![Algo A](flowchart/algoa.jpeg)
+![Algo A](flowchart/algoa.jpeg)
 
 #### Algo B Flowchart
-- ![Algo B](flowchart/algob.jpeg)
+![Algo B](flowchart/algob.jpeg)
