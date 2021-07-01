@@ -22,3 +22,10 @@
 
 ### Algos
 - Read [algo.md](https://github.com/mananmadan/object-logo-detection/blob/master/algo.md)
+
+
+#### Algo A Flowchart
+- ![Algo A](flowchart/algoa.jpeg)
+
+#### Algo B Flowchart
+- ![Algo B](flowchart/algob.jpeg)
