@@ -14,7 +14,7 @@
         - Ouputs a dict containing object , their ids and detected logo
 
 - Imp Files in **Deep Logo**
-    - [single_inf.py](https://github.com/mananmadan/DeepLogo/blob/c3d57d456d5d424c330bb16adcb3fa36f2ecc934/single_inf.py) : contains all the function that is used with the object tracker files to detect logo .. (Stands for single inference!)
+    - [single_inf.py](https://github.com/mananmadan/DeepLogo/blob/9d1feeb2ec3e3a22d72cb6dbd9ca34b77243b294/single_inf.py): contains all the function that is used with the object tracker files to detect logo .. (Stands for single inference!)
     - [annotations/](https://github.com/mananmadan/DeepLogo/tree/c3d57d456d5d424c330bb16adcb3fa36f2ecc934/annotations): contains the dataset info (train,test classes distribution).Also has a parser to read through the annotation files
     - [imgs/](https://github.com/mananmadan/DeepLogo/tree/c3d57d456d5d424c330bb16adcb3fa36f2ecc934/imgs): contains the custom dataset for testing the model
     - [MODEL-PERFORMARMANCE.md](https://github.com/mananmadan/DeepLogo/blob/c3d57d456d5d424c330bb16adcb3fa36f2ecc934/MODEL-PERFORMANCE.md) : Contains the info about the testing process of the model and about the results
