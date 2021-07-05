@@ -17,7 +17,7 @@
     - [single_inf.py](https://github.com/mananmadan/DeepLogo/blob/9d1feeb2ec3e3a22d72cb6dbd9ca34b77243b294/single_inf.py): contains all the function that is used with the object tracker files to detect logo .. (Stands for single inference!)
     - [annotations/](https://github.com/mananmadan/DeepLogo/tree/c3d57d456d5d424c330bb16adcb3fa36f2ecc934/annotations): contains the dataset info (train,test classes distribution).Also has a parser to read through the annotation files
     - [imgs/](https://github.com/mananmadan/DeepLogo/tree/c3d57d456d5d424c330bb16adcb3fa36f2ecc934/imgs): contains the custom dataset for testing the model
-    - [MODEL-PERFORMARMANCE.md](https://github.com/mananmadan/DeepLogo/blob/c3d57d456d5d424c330bb16adcb3fa36f2ecc934/MODEL-PERFORMANCE.md) : Contains the info about the testing process of the model and about the results
+    - [MODEL-PERFORMARMANCE.md](https://github.com/mananmadan/DeepLogo/blob/master/MODEL-PERFORMANCE.md) : Contains the info about the testing process of the model and about the results
     - Testing Process and Notebook Demonstrating Working of Logo Detection
         - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KOZ71GZXCz3N652kl832H_FfWX8K4Tx3?usp=sharing)
 
