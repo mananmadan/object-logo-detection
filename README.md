@@ -7,6 +7,7 @@
 
 ### File Structure
 - Imp Files Modified in **Yolov4 + deepsort**
+    - [INFO.md](https://github.com/mananmadan/yolov4-deepsort/blob/master/INFO.md): contains all the referenced and info about he model used for Yolov4 and deep sort
     - [object_tracker.py](https://github.com/mananmadan/yolov4-deepsort/blob/c336e0d3c0db085f958334d4d884f947b54972d4/object_tracker.py) : Implements yolov4 + deepsort and stores the segmented image of each object in a folder
     - [algoa.py](https://github.com/mananmadan/yolov4-deepsort/blob/c336e0d3c0db085f958334d4d884f947b54972d4/algoa.py) : Implements yolov4 + deepsort + DeepLogo for realtime detection according to the algo A as given in algo.md files
         - Outputs a Dict contains object , their ids and detected logo
