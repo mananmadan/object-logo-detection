@@ -36,4 +36,4 @@
 ![Algo B](flowchart/algob.jpeg)
 - Open Graph with links
     - Might Require to create an account
-    - [algob-tech](https://lucid.app/lucidchart/invitations/accept/inv_46850663-752c-4443-a89e-9405daa3cb4e)
+    - [algob-tech](https://lucid.app/lucidchart/invitations/accept/inv_25b733c3-49c2-4c5e-8cf2-10252f88a2d2?viewport_loc=868%2C667%2C2219%2C1129%2C0_0)
