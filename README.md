@@ -28,6 +28,12 @@
 
 #### Algo A Flowchart
 ![Algo A](flowchart/algoa.jpeg)
+- Open Graph with links
+    - Might Require to create an account
+    - [algoa-tech](https://lucid.app/lucidchart/invitations/accept/inv_46850663-752c-4443-a89e-9405daa3cb4e)
 
 #### Algo B Flowchart
 ![Algo B](flowchart/algob.jpeg)
+- Open Graph with links
+    - Might Require to create an account
+    - [algob-tech](https://lucid.app/lucidchart/invitations/accept/inv_46850663-752c-4443-a89e-9405daa3cb4e)
